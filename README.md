@@ -1,1 +1,2 @@
 # Knee-Prosthesis
+This project showcases a detailed 3D CAD model of a knee prosthesis designed using SolidWorks. The model replicates the anatomical structure and mechanical functionality of a human knee joint, focusing on biomechanical movement, durability, and ergonomic design. The objective was To design a functional and anatomically accurate knee prosthesis model suitable for research, simulation, and medical device prototyping applications.
